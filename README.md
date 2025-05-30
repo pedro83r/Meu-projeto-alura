@@ -54,7 +54,7 @@
 
     <script>
         function mostrarMensagem() {
-            alert("Obrigado por visitar meu projeto! 🐱‍👤");
+            alert("Obrigado por visitar meu projeto!");
         }
     </script>
 </body>
